@@ -1,0 +1,4 @@
+{
+  "_comment": "Only add signatures from trusted, documented sources. Exact SHA-256 matching detects only identical file contents.",
+  "sha256": {}
+}
