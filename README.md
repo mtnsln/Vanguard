@@ -1,3 +1,4 @@
+<img width="1915" height="991" alt="Снимок экрана 2026-11-16 140834" src="https://github.com/user-attachments/assets/cc0c5e66-2f28-44fe-88a4-cd4c0cdd9c27" />
 # Vanguard — Local File Security
 
 Vanguard is a lightweight Windows desktop utility for scanning selected files and folders with a small local detection set. Version 2.0 focuses on a restrained interface, predictable file handling, and transparent reporting.
@@ -96,3 +97,5 @@ Vanguard-Enhanced/
 ## Design direction
 
 The interface intentionally uses a compact graphite palette, restrained green status accents, clear hierarchy, and native desktop controls. It avoids decorative gradients and oversized dashboard widgets in favor of readable operational information.
+<img width="1915" height="991" alt="Снимок экрана 2026-11-16 140834" src="https://github.com/user-attachments/assets/115afe66-9a5b-4d5d-9c75-f1825e073ea3" />
+<img width="1911" height="998" alt="Снимок экрана 2026-11-16 140850" src="https://github.com/user-attachments/assets/006a516a-5ff5-4206-9ec3-832a6f7b59c2" />
