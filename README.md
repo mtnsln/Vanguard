@@ -1,3 +1,5 @@
+<img width="1917" height="995" alt="Снимок экрана 2026-11-16 144404" src="https://github.com/user-attachments/assets/b76e89bd-9c86-40f7-959c-8105bfcbf68d" />
+<img width="1917" height="1005" alt="Снимок экрана 2026-11-16 144350" src="https://github.com/user-attachments/assets/6f9500d5-d25e-4d6a-9f1f-e8c413f1d52b" />
 <img width="1915" height="991" alt="Снимок экрана 2026-11-16 140834" src="https://github.com/user-attachments/assets/cc0c5e66-2f28-44fe-88a4-cd4c0cdd9c27" />
 # Vanguard — Local File Security
 
@@ -99,3 +101,5 @@ Vanguard-Enhanced/
 The interface intentionally uses a compact graphite palette, restrained green status accents, clear hierarchy, and native desktop controls. It avoids decorative gradients and oversized dashboard widgets in favor of readable operational information.
 <img width="1915" height="991" alt="Снимок экрана 2026-11-16 140834" src="https://github.com/user-attachments/assets/115afe66-9a5b-4d5d-9c75-f1825e073ea3" />
 <img width="1911" height="998" alt="Снимок экрана 2026-11-16 140850" src="https://github.com/user-attachments/assets/006a516a-5ff5-4206-9ec3-832a6f7b59c2" />
+<img width="1917" height="1005" alt="Снимок экрана 2026-11-16 144350" src="https://github.com/user-attachments/assets/ef019459-0845-46b6-be85-0cb7b025f7de" />
+<img width="1917" height="995" alt="Снимок экрана 2026-11-16 144404" src="https://github.com/user-attachments/assets/4f967175-f327-4c12-8048-7a0ef18f4160" />
