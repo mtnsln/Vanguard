@@ -1,1 +1,0 @@
-# Vanguard uses only Python standard-library modules.
